@@ -3,7 +3,7 @@ print("I will now count my chickens:")
 
 # we print text and make and addition and a substraction
 print("Hens", 25.0 + 30.0 / 6.0)
-# we print text and make a substraction a multiplication and a percentage
+# we print text and make a substraction a multiplication and a module
 print("Rooster", 100.0 - 25.0 * 3.0 % 4)
 
 print("Now I will count the eggs:")
